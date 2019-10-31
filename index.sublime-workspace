@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"t",
+				"text-align-last\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"tex",
+				"text-align-last\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"te",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"se",
+				"service"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"fle",
+				"flex\tdisplay"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"to",
+				"topic-theme"
+			],
+			[
+				"alim",
+				"align-items\tproperty"
+			],
+			[
+				"i",
+				"inline\tdisplay"
+			],
+			[
+				"f",
+				"flex-wrap\tproperty"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"wra",
+				"flex-wrap\tproperty"
+			],
+			[
+				"fl",
+				"flex-wrap\tproperty"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ser8z/Desktop/a5-solving/css/bootstrap.min.css",
+		"/C/Users/ser8z/Desktop/a5-solving/_snippets.html",
+		"/C/Users/ser8z/Desktop/a5-solving/js/ryaba.js",
+		"/C/Users/ser8z/Desktop/a5-solving/ryaba.html",
+		"/C/Users/ser8z/Desktop/a5-solving/js/ryaba.json",
+		"/D/Program Files/Sublime Text 3/A4/site.html",
+		"/D/Program Files/Sublime Text 3/JustSite/Index.html",
+		"/D/Program Files/Sublime Text 3/JustSite/style.css",
+		"/D/Program Files/Sublime Text 3/JustSite/site.html",
+		"/C/Users/ser8z/Desktop/skillfactory/templatewire-gusto/index.html",
+		"/D/OSPanel/progs/_Office/Sublime_text/прожекты/11.html",
+		"/D/OSPanel/progs/_Office/Sublime_text/прожекты/style.css",
+		"/D/OSPanel/progs/_Office/Sublime_text/прожекты/222.css",
+		"/D/OSPanel/domains/shop/index.html",
+		"/D/OSPanel/domains/yan/yan.http",
+		"/D/OSPanel/domains/shop/shop.html",
+		"/D/OSPanel/domains/shop/index.php",
+		"/D/open_server_5_2_9_ultimate/OSPanel/domains/localhost/index.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\ser8z\\Desktop\\skillfactory\\templatewire-gusto\\index.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

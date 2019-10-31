@@ -1,0 +1,28 @@
+.game-field {
+  background-color: orange;
+}
+
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.miss {
+  background-color: red;
+}
+
+
+.page-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    height: 100vh;
+    grid-gap: 1px;
+}
+
+.d-none {
+	background-color: red;
+}

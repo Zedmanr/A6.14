@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="./css/bootstrap.min.css">
+  <link rel="stylesheet" href="./css/game.css">
+
+  <title>A.14</title>
+
+
+</head>
+<body>
+
+  <div class="container">
+    <h1>10 квадратов</h1>
+
+
+    <div class="page-wrapper">
+
+     <main class="content-1 game-field" id="slot-11"></main>
+     <main class="content-2 game-field" id="slot-12"></main>
+     <main class="content-3 game-field" id="slot-13"></main>
+     <main class="content-4 game-field" id="slot-14"></main>
+     <main class="content-5 game-field" id="slot-15"></main>
+     <main class="content-6 game-field" id="slot-16"></main>
+     <main class="content-7 game-field" id="slot-21"></main>
+     <main class="content-8 game-field" id="slot-22"></main>
+     <main class="content-9 game-field" id="slot-23"></main>
+     <main class="content-10 game-field" id="slot-24"></main>
+     <main class="content-11 game-field" id="slot-25"></main>
+     <main class="content-12 game-field" id="slot-26"></main>
+     <main class="content-13 game-field" id="slot-31"></main>
+     <main class="content-14 game-field" id="slot-32"></main>
+     <main class="content-15 game-field" id="slot-33"></main>
+     <main class="content-16 game-field" id="slot-34"></main>
+     <main class="content-17 game-field" id="slot-35"></main>
+     <main class="content-18 game-field" id="slot-36"></main>
+     <main class="content-19 game-field" id="slot-41"></main>
+     <main class="content-20 game-field" id="slot-42"></main>
+     <main class="content-21 game-field" id="slot-43"></main>
+     <main class="content-22 game-field" id="slot-44"></main>
+     <main class="content-23 game-field" id="slot-45"></main>
+     <main class="content-24 game-field" id="slot-46"></main>
+     <main class="content-25 game-field" id="slot-51"></main>
+     <main class="content-26 game-field" id="slot-52"></main>
+     <main class="content-27 game-field" id="slot-53"></main>
+     <main class="content-28 game-field" id="slot-54"></main>
+     <main class="content-29 game-field" id="slot-55"></main>
+     <main class="content-30 game-field" id="slot-56"></main>
+     <main class="content-31 game-field" id="slot-61"></main>
+     <main class="content-32 game-field" id="slot-62"></main>
+     <main class="content-33 game-field" id="slot-63"></main>
+     <main class="content-34 game-field" id="slot-64"></main>
+     <main class="content-35 game-field" id="slot-65"></main>
+     <main class="content-36 game-field" id="slot-66"></main>
+   </div>
+
+  <div id="win-message" class="d-none">
+    <!-- TODO: можно добавить красные квадратики с отрицательным весом и делать счёт попаданий в конце как разницу очков за попадание минус штрафные -->
+    <h2>Вы нашли 10 зелёных квадратов за <span id="total-time-played"></span> секунд</h2>
+  </div>
+
+  <div id="lose-message" class="d-none">
+    <img src="img/lose.png">
+  </div>
+
+  <div>
+    <button id="button-reload" class="btn btn-primary">Играть заново</button>
+  </div>
+</div>
+
+
+<script src="./js/jquery-3.4.1.min.js"></script>
+<script src="./js/bootstrap.bundle.min.js"></script>
+<script src="./js/utils.js"></script>
+<script src="./js/game.js"></script>
+</body>
+</html>
